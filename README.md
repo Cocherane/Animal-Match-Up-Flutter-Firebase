@@ -12,7 +12,15 @@ A new Flutter project with Firebase.
   </a>
 </p>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/m4TaU1oLjHc)
+<center>
+
+[![Watch the video](https://img.youtube.com/vi/m4TaU1oLjHc/0.jpg)](https://www.youtube.com/watch?v=m4TaU1oLjHc)
+#### Watch the video
+
+</center>
+
+
+
 
 
 ## Description
