@@ -46,7 +46,6 @@ $ Flutter pub get
 Step 1: Create a Firebase Project
 
     Go to the Firebase Console (console.firebase.google.com) and create a new project.
-    Give your project a name and select your preferred country/region.
 
 Step 2: Set up an Android App
 
@@ -57,13 +56,11 @@ Step 2: Set up an Android App
 Step 3: Configure Android App
 
     Move the downloaded google-services.json file to the "android/app" directory of your Flutter project.
-    Open the "android/build.gradle" file and add the following classpath dependency to the dependencies block:
 
 Step 3: Configure firebase in your project
 
     Replace the existing shared_constants.dart file with this updated code snippet, and make sure to update the placeholder values with the corresponding values from your google-services.json file.
 
-    Please note that it's important to keep your sensitive information, such as API keys and other credentials, secure. Consider using environment variables or a secure storage solution to store such information instead of hardcoding them directly into your source code.
 
 ```dart
 
