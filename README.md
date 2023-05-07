@@ -8,16 +8,19 @@ A new Flutter project with Firebase.
 
 <p align="center">
   <a href="https://memorygame-2686f.web.app/#swiper" target="blank"><img src="https://raw.githubusercontent.com/Cocherane/Imagenpractica3/main/photo_2023-05-06_17-38-28.jpg" width="200" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/Cocherane/Imagenpractica3/main/undefined%20-%20Imgur.gif" width="200" height="445" alt="Flutter" />
+ 
   </a>
+  
+   <img src="https://raw.githubusercontent.com/Cocherane/Imagenpractica3/main/undefined%20-%20Imgur.gif" width="200" height="445" alt="Flutter" />
+  
 </p>
 
-<center>
 
-[![Watch the video](https://img.youtube.com/vi/m4TaU1oLjHc/0.jpg)](https://www.youtube.com/watch?v=m4TaU1oLjHc)
-#### Watch the video
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=m4TaU1oLjHc"><img src="https://img.youtube.com/vi/m4TaU1oLjHc/0.jpg" alt="Watch the video"></a>
+  <h4>Watch the video</h4>
+</div>
 
-</center>
 
 
 
